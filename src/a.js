@@ -1,3 +1,1 @@
-$(document).ready(function() {
-    $("h1").html("testing");
-})
+require("./modules/header")
